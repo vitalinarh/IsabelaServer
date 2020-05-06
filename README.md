@@ -82,3 +82,16 @@ General:
 devices, etc.
 - The privacy server will maintain all the data in memory, also because privacy concerns;
 - All the data collected by the clients should be presented on the screen.
+
+## Usage
+
+```bash
+  gcc tcp_server.c -o exeServer -lcurl -ljson-c
+```
+
+And then
+
+```bash
+  gcc tcp_client.c -o exeCliente
+```
+
