@@ -82,5 +82,3 @@ General:
 devices, etc.
 - The privacy server will maintain all the data in memory, also because privacy concerns;
 - All the data collected by the clients should be presented on the screen.
-
-To interact with the ISABELA data API, please take a look at the GitHub repository example.
